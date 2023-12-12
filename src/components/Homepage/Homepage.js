@@ -26,8 +26,6 @@ const Homepage = () => {
                     </a>
                 </div>
                 <img src={homepage_woman}/>
-
-
             </main>
         </div>
     );
