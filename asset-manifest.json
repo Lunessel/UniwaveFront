@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/UniwaveFront/static/css/main.365a2192.css",
+    "main.css": "/UniwaveFront/static/css/main.0c2dab78.css",
     "main.js": "/UniwaveFront/static/js/main.420388c1.js",
     "static/media/homepage_woman.png": "/UniwaveFront/static/media/homepage_woman.3d781492abaacbbd35f6.png",
     "static/media/logo.png": "/UniwaveFront/static/media/logo.19fa05445c04aba356ba.png",
     "static/media/star.svg": "/UniwaveFront/static/media/star.4e85a0026f6e5bcbc12ca0d2a8f8c021.svg",
     "index.html": "/UniwaveFront/index.html",
     "static/media/search.svg": "/UniwaveFront/static/media/search.62c14c487d7b63462d5d7115f1adbf04.svg",
-    "main.365a2192.css.map": "/UniwaveFront/static/css/main.365a2192.css.map",
+    "main.0c2dab78.css.map": "/UniwaveFront/static/css/main.0c2dab78.css.map",
     "main.420388c1.js.map": "/UniwaveFront/static/js/main.420388c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.365a2192.css",
+    "static/css/main.0c2dab78.css",
     "static/js/main.420388c1.js"
   ]
 }
