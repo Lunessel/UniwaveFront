@@ -1,6 +1,7 @@
 {
   "name": "adaptive_jobs",
   "version": "0.1.0",
+  "homepage": "https://Lunessel.github.io/UniwaveFront",  
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.19.2",
